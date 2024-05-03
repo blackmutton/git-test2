@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>github 操作練習</title>
     <style>
-        table{
+    table{
             border-collapse:collapse;
         }
         td{
@@ -14,10 +14,12 @@
             padding:0 25px;
         }
     </style>
+
+
 </head>
 <body>
-    <h2>忘記push</h2>
-    <table>
+    <h2>這次要push</h2>
+<table>
         <tr>
             <td>1</td>
             <td>2</td>
@@ -27,6 +29,16 @@
             <td>4</td>
             <td>5</td>
             <td>6</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>8</td>
+            <td>9</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>8</td>
+            <td>9</td>
         </tr>
         <tr>
             <td>7</td>
